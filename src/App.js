@@ -20,7 +20,7 @@ const App = () => {
     }),
     React.createElement(Pizza, {
       name: "Veg Pizza",
-      description: "Mozralla, cheese, tomato",
+      description: "Mozzarella, cheese, tomato",
     }),
     React.createElement(Pizza, {
       name: "Baked Potato Pizza",
